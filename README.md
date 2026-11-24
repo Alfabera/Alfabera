@@ -39,13 +39,13 @@ Ideal para narração de vídeos, conteúdo para redes sociais, apresentações,
 - 🔔 **Avisos na tela**: comunicados importantes aparecem em destaque, com um botão "Entendi"
 - 📱 **Para computador e celular**: layout que se adapta a qualquer tela
 
-## Capturas de tela
+## Site - Alfabera.netlify.app
 
 <!-- Quando tiver os prints, envie para a pasta "imagens" e tire os comentários abaixo.
      Dica de SEO: use textos descritivos no alt, como "Alfabera - tela de escolha de vozes de famosos brasileiros" -->
 
-![Alfabera - tela inicial do gerador de voz TTS em português](imagens/a1.png)
-![Alfabera - escolha de vozes de famosos brasileiros](imagens/a2.png)
+![Alfabera - tela inicial do gerador de voz TTS em português](imagens/a2.png)
+![Alfabera - escolha de vozes de famosos brasileiros](imagens/a1.png)
 <!--
 ![Alfabera - novidades do site](imagens/novidades.png)
 -->
