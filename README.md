@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="imagens/alfabera-logo.png" alt="Logo do Alfabera" width="220">
+
 # Alfabera
 
 **Texto para voz (TTS) em português do Brasil, direto no navegador.**
@@ -42,7 +44,7 @@ Ideal para narração de vídeos, conteúdo para redes sociais, apresentações,
 <!-- Quando tiver os prints, envie para a pasta "imagens" e tire os comentários abaixo.
      Dica de SEO: use textos descritivos no alt, como "Alfabera - tela de escolha de vozes de famosos brasileiros" -->
 <!--
-![Alfabera - tela inicial do gerador de voz TTS em português](imagens/tela-inicial.png)
-![Alfabera - escolha de vozes de famosos brasileiros](imagens/escolha-de-voz.png)
+![Alfabera - tela inicial do gerador de voz TTS em português](imagens/a1.png)
+![Alfabera - escolha de vozes de famosos brasileiros](imagens/a2.png)
 ![Alfabera - novidades do site](imagens/novidades.png)
 -->
